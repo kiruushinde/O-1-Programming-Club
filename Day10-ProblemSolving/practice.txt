@@ -1,0 +1,13 @@
+1. find the factros of a number.
+
+2. perfect number 
+
+3. reverse the number..
+
+4. palindrome number..
+
+5. find the sum of digits of a nubmer..
+
+6. decimal to binary
+
+7. fibonacci series is also homework question..🙌
