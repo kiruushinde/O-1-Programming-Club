@@ -1,0 +1,25 @@
+#️⃣ Create a snake, water & gun game using C++.
+Take input from computer and give your input as well.
+
+You know the concept, 
+if computer chose gun and you also gave input as gun then match will be draw.
+in same way, if computer chose snake and you chose gun then you will won the match.
+and find out all the cases..
+
+for this you will need to specify the computers input..
+
+comptuer --> g, w, s (you should don't know what is comptuers input..)
+you --> g, w, s 
+
+1 to 100 --> generate random number..\
+
+e.g.
+1 to 33 --> computer choose s 
+34 to 66 --> computer choose g
+67 to 100 --> computer choose w
+
+
+
+
+me and computer...
+
