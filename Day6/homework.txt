@@ -1,0 +1,25 @@
+#️⃣ Homework 
+
+1. on switch case 😎
+
+    if I enter an age, then following should be printed on screen.
+
+    // 8 --> your age is between 1 to 10
+    // 18 --> your age is between 11 to 20
+    // 28 --> your age is between 21 to 30
+    // 38 --> your age is between 31 to 40
+    // 48 --> your age is between 41 to 50
+
+2. learn XOR operator with example 
+
+3. increment and decrement 
+
+    a = 10;
+
+    --a;
+    ++a;
+    a--;
+    a++;
+    a--;
+
+    what is the value of a ? 🙄
