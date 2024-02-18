@@ -1,0 +1,15 @@
+#️⃣ for loop..
+
+                start 
+                 ⬇️
+              initialization
+                 ⬇️ 
+               condition --------> false (end)
+                 ⬇️ if true
+               execute code 
+                 ⬇️ 
+               update
+
+
+
+                 
