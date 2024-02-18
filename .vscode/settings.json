@@ -1,0 +1,12 @@
+{
+  "git.ignoreLimitWarning": true,
+  "files.associations": {
+    "*.txt": "plaintext",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "algorithm": "cpp",
+    "numeric": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp"
+  }
+}

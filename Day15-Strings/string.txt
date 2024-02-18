@@ -1,0 +1,33 @@
+- what is char array and string ? ✅
+- how to take input ? ✅
+- line breaks, diff between cin and getline ✅
+- how does it stores in memory ? ✅
+- null character ✅
+
+
+#️⃣ Problems 
+- lenght of string ✅
+- reverse a string ✅
+- replace white spaces  homework
+- palindrome
+
+char ch = 'k'
+char ch = 'k'
+char ch = 'k'
+char ch = 'k'
+char ch = 'k'
+
+'k' 'i' 'r' 'a' 'n'
+"kiran"
+
+char name[10] = {'k', 'i', 'r', 'a', 'n', '\0'};
+
+'\0' --> string termincating character.
+
+char name[10];
+
+cin >> name;
+
+
+ m    e    o    w
+100  101  102  103
