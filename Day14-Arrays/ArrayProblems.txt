@@ -1,0 +1,40 @@
+- What is an array ? ✅
+- Why it is needed ? ✅
+- Creating an array . adding different values ✅
+- finding size ✅
+- initializing ✅
+- indexing and accessing elements ✅
+  value at (arr + index * byte)
+- printing, functions ✅
+   1. pass the name of array 
+   2. while accessing it use array syntax..
+
+  values can be passed in two way.. ✅
+   1. pass by value
+   2. pass by reference..
+
+
+- linear search ✅
+- maximum number in array ✅
+- second largest in array ✅
+- find smallest ✅ 2nd smallest
+- extreme print ✅
+- reverse array ✅
+- find missing ✅
+- maximum consecutive ones ❌ not done yet
+- check sorted or not ✅
+--------------------------------------------
+
+addres --> 100  104  108  112  116
+values --> 10   20   30   40   50
+index  --> 0    1    2    3    4
+
+value at (  arr +       index * byte)
+          base add.
+
+0th index:  (100 + 0 * 4)
+         :  100 
+
+1st index: arr + index * 4
+         : 100 + 1 * 4
+         : 104 --> value at 104

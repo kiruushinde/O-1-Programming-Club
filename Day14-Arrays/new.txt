@@ -1,0 +1,23 @@
+🚀 Level 2 JavaScript Notes 🚀
+
+Hey everyone,
+
+Back with another set of JavaScript notes! 🎉 If you missed Level 1, catch up here: [Level 1 JavaScript Notes](https://www.linkedin.com/posts/kiran-shinde-sde1_javascript-level-1-activity-7163544081275506689-0qYA?utm_source=share&utm_medium=member_desktop)
+
+Let's dive deeper into the world of JavaScript with Level 2. 🌟 Here's what we'll be covering:
+
+- Difference between var, let, and const
+- Window object
+- Browser context API
+- Execution context
+- Copy reference values
+- Truthy vs. Falsy values
+- forEach, forIn loop
+- Callback, first class, higher-order, and constructor functions
+- IIFE (Immediately Invoked Function Expression)
+- Call, apply, bind
+- Pure functions
+
+Ready to level up your JavaScript skills? 💪 Check out the Level 2 notes and enhance your understanding of these advanced topics! Feel free to share with your network and stay tuned for more insights. Let's keep learning and growing together! 🌱💡
+
+#JavaScript #Programming #WebDevelopment #TechSkills #LearningAndDevelopment #CodingTips #DeveloperCommunity #LevelUp #LinkedInLearning
