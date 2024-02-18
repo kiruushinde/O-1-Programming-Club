@@ -1,0 +1,25 @@
+1. Write a program to print multiplication table of given number.
+
+2. Write a program to print multiplication table of 10 in reverse order 
+
+3. A do while loop is executed 
+    - at least once
+    - at least twice
+    - at most once
+
+4. What can be done using one kind of loop is also done by using another kind of loop. 
+    - true / false
+
+5. Write a program to sum first n naturals numbers using while loop. 
+
+6. repeat program 5 using do-while and for loop.
+
+7. Write a program to calculate the sum of the nubmers occurring in the multiplication table of 8.
+
+8. write a program to find factorial of number using for loop.
+
+9. repeat 8 using while loop.
+
+10. write a program to check whether a number is prime or not.
+
+11. implement 10 using other type of loop.
