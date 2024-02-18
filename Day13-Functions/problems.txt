@@ -1,0 +1,7 @@
+1. maximum of two numbers
+2. count set bits
+3. calculate sum of digits of given number.
+4. even or odd
+5. prime or not #️⃣ homework
+6. count the no. of digits
+7. Check Armstrong number 
